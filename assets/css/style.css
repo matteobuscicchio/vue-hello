@@ -1,0 +1,13 @@
+/* reset */
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+/* /reset/ */
+
+body{
+	background-color: #640a64;
+	color: white;
+	text-align: center;
+}
